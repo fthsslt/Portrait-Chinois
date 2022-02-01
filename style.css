@@ -1,0 +1,421 @@
+
+
+
+#Accueil {
+  background: no-repeat center/100% url('img/cinema.jpg');
+  width: 100%;
+  height: 100%;
+}
+  #anime {
+    background: no-repeat center/110% url('img/film.jpg');
+    width: 100%;
+    height: 100%;
+  }
+  #musique {
+    background: no-repeat center/110% url('img/film.jpg');
+    width: 100%;
+    height: 100%;
+  }
+  #rappeur {
+    background: no-repeat center/110% url('img/film.jpg');
+    width: 100%;
+    height: 100%;
+  }
+  #jeuxvidéo{
+    background: no-repeat center/110% url('img/film.jpg');
+    width: 100%;
+    height: 100%;
+  }
+  #acteur {
+    background: no-repeat center/110% url('img/film.jpg');
+    width: 100%;
+    height: 100%;
+  }
+  #logiciel{
+    background: no-repeat center/110% url('img/film.jpg');
+    width: 100%;
+    height: 100%;
+  
+  }
+  #album {
+    background: no-repeat center/110% url('img/film.jpg');
+    width: 100%;
+    height: 100%;
+  }
+  #suggestion {
+    background: no-repeat center/110% url('img/vinyle.jpg');
+     width: 100%;
+  height: 100%;
+  background-color: black;
+  }
+
+  section > span {
+    position: none;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 7vw;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  body
+  {
+        width: 1024px;
+       height: 768px;
+      background-attachment:fixed;
+      background-repeat:no-repeat;
+      background-color:#b7b3b3;  
+      border:0px;
+  }  
+
+.image{
+
+  text-align: center;
+}
+.texte{
+margin-right: 50%;
+align-items: right;
+}
+
+
+.slides {
+  font-size: large;
+  background-color: rgb(24, 24, 24);
+
+
+}
+
+.texte{
+  align-items: center;
+  justify-items: left;
+}
+
+
+p {
+  color: #484848;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: monospace;
+  letter-spacing: 7px;
+  cursor: pointer;
+}
+
+p {
+  transition: .5s linear
+}
+
+p:hover {
+  color: #fff;
+  text-shadow: 0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #fff;
+}
+
+span{
+  display:inline;
+}
+
+
+
+  .gif{
+    opacity: 0.5;
+    width: 78.18%;
+    height: 100%;
+    position: absolute;
+    left: 10.65%;
+    
+
+  }
+
+
+ 
+.old{
+  opacity: 0.7;
+  width: 78.5%;
+  height: 100%;
+position: absolute;
+  left: 10.70%;
+ 
+}
+  #blur{
+    opacity: 0.8;
+  }
+
+  .imagefond{
+    opacity: 0.9;
+    width: 78.18%;
+   max-height: 100%;
+ position: absolute;
+    left: 10.65%;
+height: 100%;
+
+  }
+
+
+.analogies{
+  font-family: monospace;
+  color: #ffffff;
+position: relative;
+top: 10px;
+left: 30%;
+font-size: 5vh;
+opacity: 0.8;
+text-shadow: 6px 6px 9px #000000, 5px 5px 66px #2d2222;
+overflow-wrap: normal;
+}
+
+
+.fl{
+  opacity: 0.5;
+ height: 700px;
+ width: 720px;
+ position: absolute;
+ left: 450px;
+ right: 2150px;
+ top: 10px;
+}
+
+.quoi{
+  position: absolute;
+ letter-spacing: 0.5vw;
+  right: 60%;
+  left: 70%;
+  bottom: 40%;
+  font-size: 2vh;
+  color: #b7b3b3;
+  
+}
+
+.intro{
+  position: relative;
+  text-align: center;
+  right: 2%;
+  top: 31%;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'The Nautigal', cursive;
+  color: #b7b3b3;
+
+}
+
+
+
+#suggestion{
+  position: relative;
+  text-align: center;
+  
+}
+
+
+
+.vintage{
+  opacity: 1;
+  width: 50%;
+ 
+  position: absolute;
+ top: 10%;
+ right: 25%;
+
+bottom: 65%;
+}
+.explication{
+  position: absolute;
+  text-align: center;
+font-size: 2vh;
+size: 20vh;
+letter-spacing: 0.2vh;
+white-space: normal;
+padding-left: 10%;
+padding-right: 10%;
+bottom: 10%;
+color: #b7b3b3;
+margin-left: 10%;
+margin-right: 10%;
+cursor:inherit;
+}
+
+
+#envoi{
+position: absolute;
+background-color: rgba(25,27,24,255);
+border:rgba(25,27,24,255) ;
+
+top: 57%;
+width: 150%;
+}
+#envoi:hover{
+  color: black;  
+  background-color: #fff;
+ 
+}
+
+#messageApresEnvoi{
+  position: relative;
+  display: block;
+  top: 22%;
+  right: 0%;
+}
+
+
+
+.boite{
+  font-family: 'Permanent Marker', cursive;
+  width: auto;
+}
+
+#vjs{
+  position: absolute;
+  align-items: center;
+  top: 21%;
+  left: 34%;
+  letter-spacing: 0.5%;
+  max-width: 100%;
+}
+
+#valeurAnalogie{
+  position: absolute;
+ top: 21.5%;
+ left: 57%;
+ width: 11%;
+}
+
+#courriel{
+  position: absolute;
+  top: 24.5%;
+  left: 57% ;
+  width: 11%;
+
+
+}
+
+#courriel2{
+  position: absolute;
+  top: 24%;
+  left: 34% ;
+}
+
+#analogie{
+  position: absolute;
+  top: 18.5%;
+  left: 57% ;
+  width: 11%;
+}
+
+#merci{
+
+  position: absolute;
+  top: 18%;
+  left: 34% ;
+  letter-spacing: 0.5%;
+  max-width: 100%;
+}
+
+.mentions{
+ bottom: 10%;
+  position: relative;
+right: 28%;
+  width: 150%;
+  letter-spacing: 0.1vh;
+}
+
+
+
+
+
+
+
+*{margin-top: 0px;
+  margin-bottom: 0px;}
+  main{width: 100vw;
+  height: 100vh;}
+  footer{
+      position: absolute;
+      bottom: 0px;
+      width: 100vw;
+  }
+  footer img{
+      cursor: pointer;
+      display: block;
+      margin: 0 auto;
+      height: auto;
+      width: 5%;
+      animation: infinite move;
+
+  }
+  footer .volet-invisible{height: 0rem;
+  overflow: hidden}
+
+  footer .volet-visible{height: fit-content;
+   background-color: black;}
+
+  .hauteur{
+   bottom: 2.5vw;
+    position: relative;
+    height: 10%;
+  
+  }
+  .light{
+    opacity: 1;
+    transition: opacity 1s cubic-bezier(0.5, 0, 0.75, 0) 0s;
+  
+  }
+.light:hover{
+  opacity: 0.3;
+}
+
+#quoid{
+  color: black
+}
+
+#quoid:hover{
+  color: #b61818;
+  
+}
+
+#bonjour{
+  position: relative;
+  left: 1%;
+}
+#quoi0{
+position: absolute;
+top: 10%;
+left: 45%;
+cursor:inherit;
+
+}
+
+
+.volet-visible {
+  background-color: rgb(12, 20, 22);
+  overflow: hidden;
+  height: 10em;
+  transition: 1px; ;
+  color: aliceblue;
+
+}
+footer {
+padding: 50px;
+width: 100%;
+position: relative;
+right: 3.25%;
+
+}
+.volet-invisible {
+  background-color: rgb(0, 0, 0);
+  height: 4em;
+  overflow: hidden;
+  cursor: pointer;
+  color: aliceblue;
+
+}
+.boite{
+height: 68.8%;
+width: 100%;
+
+}
+
+.mention{
+font-size: 3vh;
+letter-spacing: 0.1vh;
+}
+
