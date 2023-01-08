@@ -42,6 +42,6 @@ var explicationn = [
 " Parce que c'est un logiciel de production de musique. J'aime la musique, j'ai grandi entouré de gens qui aiment la musique. Fl studio me permets d'être très créatif. C'est un logiciel complet et très facile à prendre en main.",
 
 
-"Parce que pour moi, c'est plus qu'un album, c'est un film, car sur Youtube, on peut retrouver 4 clips qui racontent une histoire.Au début comme beaucoup d'autres personnes j'étais pas attiré par l'album et ce que propose le duo Pnl mais grâce aux clips sur Youtube je me suis plongé dans leur univers . Jamais un album n'a aussi bien porté son nom, cet album restera dans la légende des meilleurs albums que j'ai écouté.",
+"Parce que pour moi, c'est plus qu'un album, c'est un film, car sur Youtube, on peut retrouver 4 clips qui racontent une histoire.Au début comme beaucoup d'autres personnes je n'étais pas attiré par l'album et ce que propose le duo Pnl mais grâce aux clips sur Youtube je me suis plongé dans leur univers . Jamais un album n'a aussi bien porté son nom, cet album restera dans la légende des meilleurs albums que j'ai écouté.",
 ]
 
